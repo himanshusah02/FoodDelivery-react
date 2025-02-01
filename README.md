@@ -49,7 +49,7 @@ This web application aims to simplify the food ordering process. Users can explo
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/himanshusah02/FoodDelivery-react.git](https://www.google.com/search?q=https://github.com/himanshusah02/FoodDelivery-react.git)
+    git clone [https://github.com/himanshusah02/FoodDelivery-react.git]
     ```
 
 2.  Navigate to the project directory:
